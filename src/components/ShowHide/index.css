@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.heading {
+  color: #ffffff;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+}
+.apps {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+.app1 {
+  margin-right: 20px;
+}
+.app2 {
+  margin-left: 20px;
+}
+.butt {
+  height: 6vh;
+  border-width: 0px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  color: #dd1264;
+}
+
+.first-name {
+  height: 17vh;
+  background-color: #fddddb;
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+.name {
+  font-size: 30px;
+}
